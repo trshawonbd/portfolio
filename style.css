@@ -23,3 +23,12 @@ section {
   margin-right: auto;
   padding-top: 10%;
 }
+
+.link-button {
+  text-decoration: none;
+  padding: 10px 40px;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  color: black;
+  font-weight: 700;
+}
